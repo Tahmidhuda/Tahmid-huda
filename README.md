@@ -109,7 +109,7 @@
 <br/>
 <br/>
 <br/>
-<h3 align="left">🏆 GitHub Trophies</h3>
+<!--<h3 align="left">🏆 GitHub Trophies</h3>
 <p align="center"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy"> &nbsp;
         <img align="center" src="https://github-profile-trophy.vercel.app/?username=Tahmid-huda" alt="Tahmid-huda">
