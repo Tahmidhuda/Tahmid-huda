@@ -96,12 +96,12 @@
         alt="Tahmid-huda" />
     -->
         <img align = "left"
-             src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tahmid-huda&theme=blue-green"
-             alt="Tahmid-huda"/>
+             src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tahmidhuda&theme=blue-green"
+             alt="Tahmidhuda"/>
     </p>
     <p>
         &nbsp;<img align="center"
-            src="https://github-readme-stats.vercel.app/api?username=tahmid-huda&show_icons=true&theme=transparent"
+            src="https://github-readme-stats.vercel.app/api?username=Tahmidhuda&show_icons=true&theme=transparent"
             alt="Tahmid-huda" />
     </p>
 </p>
