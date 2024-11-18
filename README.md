@@ -1,4 +1,4 @@
-![MasterHead]([https://tenor.com/view/animate-background-technology-gif-4142333308159596986](https://tenor.com/view/game-time-gamer-gaming-shopping-movies-gif-14799468))
+![MasterHead](https://tenor.com/view/animate-background-technology-gif-4142333308159596986)
 <h1 align="center">Hi 👋, I'm Tahmid Huda</h1>
 
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
