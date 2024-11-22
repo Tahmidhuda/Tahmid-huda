@@ -1,4 +1,4 @@
-![MasterHead](https://media1.tenor.com/m/f7859BVKCd8AAAAd/game-time-gamer.gif)
+![MasterHead](https://mega.nz/file/pCIHDRKS#pDS15KrFNMm88rQ-3xZMVDtyCqvPE-GKKGrsUmOpyrk)
 <h1 align="center">Hi 👋, I'm Tahmid Huda</h1>
 
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
