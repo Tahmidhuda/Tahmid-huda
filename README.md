@@ -1,4 +1,4 @@
-![MasterHead](https://mega.nz/file/pCIHDRKS#pDS15KrFNMm88rQ-3xZMVDtyCqvPE-GKKGrsUmOpyrk)
+![MasterHead](https://drive.google.com/drive/u/0/folders/1OX8coL_PMk-7fEQyEAuen0eNYMcS8vHZ)
 <h1 align="center">Hi 👋, I'm Tahmid Huda</h1>
 
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
